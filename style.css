@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+#featured-property  {
+  margin: 10%;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  
+}
+nav a{
+  margin-left: 15px;
+}
+header h1{
+  display: flex;
+  justify-content: center;
+}
